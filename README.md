@@ -2,7 +2,8 @@ I Vehicle Maintenance Predictor
 
 An Ethical Predictive Maintenance Tool for Vehicles
 
-🔗 Try the App / Prototype: Paste you
+ Try the App / Prototype
+
 (https://elm-swirl-31257034.figma.site )
 
 Project Overview
@@ -12,7 +13,7 @@ The AI Vehicle Maintenance Predictor helps drivers detect possible vehicle probl
 The system uses simple inputs like mileage and service history to predict when parts may need maintenance.
 It is designed for everyday drivers and small fleet owners, not just large logistics companies.
 
-⚖️ Ethical AI Framework
+Ethical AI Framework
 
 This project focuses on responsible AI, ensuring the system is fair, private, and accessible.
 
@@ -43,7 +44,7 @@ Instead of complex diagnostic codes, the app shows clear messages like:
 
 Brake Pad Replacement – Estimated Cost: R2,800
 
-🌍 Environmental Impact
+Environmental Impact
 
 Predictive maintenance helps:
 
@@ -55,7 +56,7 @@ This lowers the need for new vehicle production and reduces waste.
 
 The project also recommends certified e-waste recycling for diagnostic hardware.
 
-🚀 Technical Features
+ Technical Features
 
 Predictive Maintenance
 Uses probability analysis to estimate when vehicle parts may fail.
@@ -74,3 +75,11 @@ The Problem
 The Technical Approach
 
 “The system uses simple inputs like mileage and service history instead of expensive GPS tracking hardware. This keeps the solution affordable and protects user privacy
+
+Conclusion for Users
+
+The AI Vehicle Maintenance Predictor is designed to help you stay ahead of costly vehicle problems. By providing easy-to-understand maintenance forecasts, it empowers you to make informed decisions about repairs and service.
+
+Remember, this app is a decision-support tool—always consult a qualified mechanic for final advice.
+
+Your privacy is important: no GPS tracking or personal data collection is required. Just enter your mileage and service history, and the app will provide actionable insights to help your vehicle stay safe, reliable, and efficient.
