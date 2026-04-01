@@ -1,4 +1,4 @@
-I Vehicle Maintenance Predictor
+AI Vehicle Maintenance Predictor
 
 An Ethical Predictive Maintenance Tool for Vehicles
 
