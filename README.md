@@ -4,7 +4,7 @@ An Ethical Predictive Maintenance Tool for Vehicles
 
  Try the App / Prototype
 
-(https://elm-swirl-31257034.figma.site )
+https://elm-swirl-31257034.figma.site 
 
 Project Overview
 
